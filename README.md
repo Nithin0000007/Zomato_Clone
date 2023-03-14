@@ -21,6 +21,9 @@ How to make a PR?
 ![2023-03-15 (3)](https://user-images.githubusercontent.com/127509559/225134758-84f45961-600e-4d64-8bf9-4c3eef1696e7.png)
 
 
+![2023-03-15 (4)](https://user-images.githubusercontent.com/127509559/225135293-95a368b1-6918-41f1-97d7-ea0ef88a0ef5.png)
+
+
 
 Technical Details
 Languages: HTML5, CSS 
