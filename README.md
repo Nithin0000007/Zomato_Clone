@@ -12,29 +12,13 @@ How to raise an issue?
 How to fork and work upon a repository?
 How to make a PR?
 
-
-
-
-
-Uploading Zomato - Brave 2023-03-15 02-20-24.mp4…
-
-
-
-
-
-
-
+![2023-03-15](https://user-images.githubusercontent.com/127509559/225134576-92c509da-22b0-4bf1-ab48-da4cfa2b1ba0.png)
 
 ![2023-03-15 (1)](https://user-images.githubusercontent.com/127509559/225132484-a0bba9ea-037d-484b-b4eb-327fa44be449.png)
 
-
-
-
-
-
-
 ![2023-03-15 (2)](https://user-images.githubusercontent.com/127509559/225132512-c2c3e08f-6902-403f-9de6-78e518658863.png)
 
+![2023-03-15 (3)](https://user-images.githubusercontent.com/127509559/225134758-84f45961-600e-4d64-8bf9-4c3eef1696e7.png)
 
 
 
